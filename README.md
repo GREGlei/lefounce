@@ -1,3 +1,3 @@
 # lefounce
 Python based project!
-<img src="images/GitHub-Mark.png" width=100  )
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=100  )
